@@ -1,0 +1,49 @@
+.appContainer {
+  width: 100%;
+  padding: 16px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.appContainer-div1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.appContainer-div1-1 {
+  width: calc(49%);
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  justify-content: center;
+  border: 1px solid #bcbcbc;
+  border-radius: 16px;
+}
+
+
+
+.appContainer-div2 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.appContainer-div2-1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  border: 1px solid #bcbcbc;
+  border-radius: 16px;
+}
+
+.sp-img {
+  width: 100%;
+  border-radius: 16px;
+}
